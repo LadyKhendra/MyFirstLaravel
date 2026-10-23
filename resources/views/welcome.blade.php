@@ -4,7 +4,6 @@
 </title>
 </head>
 <body>
-    
-
-    <a href="about">about us</a>
+    <img src="girl.jpg">
+    <a href="{{url('about')}}">about us</a>
 </body>

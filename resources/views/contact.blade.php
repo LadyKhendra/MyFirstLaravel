@@ -1,1 +1,2 @@
-<a href="welcome">welcome</a>
+
+<a href="{{url('welcome')}}">welcome</a>

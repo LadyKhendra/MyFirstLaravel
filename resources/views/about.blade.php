@@ -1,3 +1,4 @@
 <body>
-    <a href="contact">contact</a>
+    
+    <a href="{{url('contact')}}">contact</a>
 </body>
